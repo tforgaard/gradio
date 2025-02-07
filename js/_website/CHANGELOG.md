@@ -1,5 +1,17 @@
 # website
 
+## 0.48.1
+
+### Fixes
+
+- [#10510](https://github.com/gradio-app/gradio/pull/10510) [`71e4cd4`](https://github.com/gradio-app/gradio/commit/71e4cd483e9b43b2aa770db9f834036bb70f9420) - Fixed wrong example usage of docs/gradio/selectdata.  Thanks @PatZer0!
+
+### Dependency updates
+
+- @gradio/code@0.10.17
+- @gradio/paramviewer@0.7.1
+- @gradio/statustracker@0.10.3
+
 ## 0.48.0
 
 ### Features

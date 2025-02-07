@@ -2,6 +2,14 @@
 
 ## 0.6.0
 
+### Dependency updates
+
+- @gradio/client@1.12.0
+- @gradio/core@0.10.0
+- @gradio/wasm@0.17.3
+
+## 0.6.0
+
 ### Features
 
 - [#10433](https://github.com/gradio-app/gradio/pull/10433) [`2e8dc74`](https://github.com/gradio-app/gradio/commit/2e8dc74f751be02f7217f78d241806b42fcdca04) - Allow building multipage Gradio apps.  Thanks @aliabid94!

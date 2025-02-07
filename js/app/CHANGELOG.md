@@ -1,5 +1,17 @@
 # @self/app
 
+## 1.47.1
+
+### Fixes
+
+- [#10533](https://github.com/gradio-app/gradio/pull/10533) [`59c892d`](https://github.com/gradio-app/gradio/commit/59c892d5620951ca404bd72cae6765cf25f15bc5) - support URL params for themes in SSR mode.  Thanks @aliabid94!
+
+### Dependency updates
+
+- @gradio/client@1.12.0
+- @gradio/core@0.10.0
+- @gradio/wasm@0.17.3
+
 ## 1.47.0
 
 ### Features
